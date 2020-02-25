@@ -8,7 +8,7 @@ def sms_reply():
     resp = MessagingResponse()
 
     # Add a message
-    resp.message("Welcome everyone to my presentation!!")
+    resp.message("Welcome everyone to my world of trial and error!!")
 
     return str(resp)
 
