@@ -1,2 +1,2 @@
 # PythonPlayground
-This repository contains the few Python programs I has played around with
+This repository contains the few Python programs I have toyed with
